@@ -5,9 +5,9 @@ class Solution {
        for(int i=0;i<nums.length;i++){
             int k=target-nums[i];
             if(h.containsKey(k)){
-                a[1]=i;
-                a[0]=h.get(k);
-                return a;
+                // a[1]=i;
+                // a[0]=h.get(k);
+                return new int[]{h.get(k),i};
             }
             h.put(nums[i],i);
        }
