@@ -7,6 +7,7 @@ class Solution {
             if(h.containsKey(k)){
                 a[1]=i;
                 a[0]=h.get(k);
+                return a;
             }
             h.put(nums[i],i);
        }
