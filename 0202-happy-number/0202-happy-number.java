@@ -2,7 +2,6 @@ class Solution {
     public boolean isHappy(int n) {
         HashSet<Integer>h=new HashSet<>();
         while(n>1){
-            System.out.println(n);
             if(h.contains(n))return false;
             h.add(n);
             int ans=0;
