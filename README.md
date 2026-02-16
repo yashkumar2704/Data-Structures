@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/yashkumar2704/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashkumar2704/Data-Structures/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yashkumar2704/Data-Structures/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +48,12 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/yashkumar2704/Data-Structures/tree/master/0190-reverse-bits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
