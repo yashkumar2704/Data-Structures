@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/yashkumar2704/Data-Structures/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/yashkumar2704/Data-Structures/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/yashkumar2704/Data-Structures/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
