@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/yashkumar2704/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -13,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/yashkumar2704/Data-Structures/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yashkumar2704/Data-Structures/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/yashkumar2704/Data-Structures/tree/master/0217-contains-duplicate) |
@@ -67,4 +69,8 @@
 | ------- |
 | [0383-ransom-note](https://github.com/yashkumar2704/Data-Structures/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
