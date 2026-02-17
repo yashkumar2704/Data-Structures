@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/yashkumar2704/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/yashkumar2704/Data-Structures/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yashkumar2704/Data-Structures/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/yashkumar2704/Data-Structures/tree/master/0217-contains-duplicate) |
@@ -22,12 +24,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/yashkumar2704/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashkumar2704/Data-Structures/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/yashkumar2704/Data-Structures/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashkumar2704/Data-Structures/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yashkumar2704/Data-Structures/tree/master/0290-word-pattern) |
