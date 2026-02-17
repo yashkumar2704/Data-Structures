@@ -9,9 +9,7 @@ class Solution {
             if(!h1.get(p.charAt(i)).equals(str[i]))return false;
             }
             else h1.put(p.charAt(i),str[i]);
-        }
         
-        for(int i=0;i<str.length;i++){
             if(h2.containsKey(str[i])){
                 if(h2.get(str[i])!=p.charAt(i))return false;
             }
