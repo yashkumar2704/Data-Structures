@@ -17,8 +17,6 @@ class Solution {
         Arrays.sort(b);
         String k1=Arrays.toString(a);
         String k2=Arrays.toString(b);
-        System.out.println(k1);
-        System.out.println(k2);
         if(!k1.equals(k2))return false;
         return true;
     }
