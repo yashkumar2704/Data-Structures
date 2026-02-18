@@ -8,11 +8,11 @@ class Solution {
         int ans=0;
         for(int num:h){
             if(!h.contains(num-1)){
-                // int curr=i;
+                int curr=num;
                 int t=1;
-                while(h.contains(num+1)){
+                while(h.contains(curr+1)){
                     // curr++;
-                    t++;num++;
+                    t++;curr++;
                 }
                 if(ans<t)ans=t;
             }
