@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/yashkumar2704/Data-Structures/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/yashkumar2704/Data-Structures/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/yashkumar2704/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/yashkumar2704/Data-Structures/tree/master/0454-4sum-ii) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/yashkumar2704/Data-Structures/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/yashkumar2704/Data-Structures/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
