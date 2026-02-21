@@ -56,6 +56,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/yashkumar2704/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
+| [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashkumar2704/Data-Structures/tree/master/1657-determine-if-two-strings-are-close) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@
 | [0283-move-zeroes](https://github.com/yashkumar2704/Data-Structures/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,4 +121,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
