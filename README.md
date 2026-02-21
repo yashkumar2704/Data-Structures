@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/yashkumar2704/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0088-merge-sorted-array) |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashkumar2704/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/yashkumar2704/Data-Structures/tree/master/0202-happy-number) |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yashkumar2704/Data-Structures/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
