@@ -4,10 +4,7 @@ class Solution {
         int ans=0;
         int lf=0;
         while(lf<r){
-            int he=Math.min(h[lf],h[r]);
-            int l=r-lf;
-            int area=he*l;
-            ans=Math.max(ans,area);
+            ans=Math.max(ans,Math.min(h[lf],h[r])*(r-lf));
             if(h[lf]>h[r])r--;
             else lf++;
         }
