@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/yashkumar2704/Data-Structures/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/yashkumar2704/Data-Structures/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/yashkumar2704/Data-Structures/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/yashkumar2704/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/yashkumar2704/Data-Structures/tree/master/0190-reverse-bits) |
+| [0260-single-number-iii](https://github.com/yashkumar2704/Data-Structures/tree/master/0260-single-number-iii) |
 ## Queue
 |  |
 | ------- |
