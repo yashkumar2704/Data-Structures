@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashkumar2704/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/yashkumar2704/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/yashkumar2704/Data-Structures/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/yashkumar2704/Data-Structures/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashkumar2704/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -149,4 +151,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yashkumar2704/Data-Structures/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
