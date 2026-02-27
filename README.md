@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yashkumar2704/Data-Structures/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashkumar2704/Data-Structures/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yashkumar2704/Data-Structures/tree/master/0290-word-pattern) |
@@ -73,6 +74,7 @@
 | [0075-sort-colors](https://github.com/yashkumar2704/Data-Structures/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/yashkumar2704/Data-Structures/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashkumar2704/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/yashkumar2704/Data-Structures/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/yashkumar2704/Data-Structures/tree/master/0283-move-zeroes) |
