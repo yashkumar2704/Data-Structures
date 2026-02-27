@@ -11,8 +11,6 @@ class Solution {
         }
         String k="";
         for(int p=0;p<str.length;p++){
-            
-        System.out.println(str[p]);
             k+=str[p];
             if(p<str.length-1)k+=" ";
             
