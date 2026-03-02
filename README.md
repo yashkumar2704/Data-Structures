@@ -88,6 +88,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashkumar2704/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/yashkumar2704/Data-Structures/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yashkumar2704/Data-Structures/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0392-is-subsequence) |
@@ -151,6 +152,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -166,6 +168,7 @@
 | [0141-linked-list-cycle](https://github.com/yashkumar2704/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashkumar2704/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,4 +181,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
