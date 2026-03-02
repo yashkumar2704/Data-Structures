@@ -165,6 +165,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yashkumar2704/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashkumar2704/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,4 +174,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
