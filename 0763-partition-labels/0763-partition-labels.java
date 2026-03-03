@@ -6,17 +6,23 @@ class Solution {
             nums[s.charAt(i)-'a']=i;
         }
         int end=0;
-        while(end<s.length()){
-            int t=end;
-            for(int i=t;i<=end;i++){
-                if(nums[s.charAt(i)-'a']>end){
-                    end=nums[s.charAt(i)-'a'];
-                }
-                // System.out.println(end);
+        // while(end<s.length()){
+        //     int t=end;
+        //     for(int i=t;i<=end;i++){
+        //         if(nums[s.charAt(i)-'a']>end){
+        //             end=nums[s.charAt(i)-'a'];
+        //         }
+        //     }
+        //     end++;
+        //     l.add(end-t);
+        // }
+        int st=0;
+        for(int i=st;i<s.length();i++){
+            end=Math.max(end,nums[s.charAt(i)-'a']);
+            if(i==end){
+                l.add(end-st+1);
+                st=i+1;
             }
-            end++;
-            l.add(end-t);
-            // System.out.println(l);
         }
         return l;
     }
