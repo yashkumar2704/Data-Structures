@@ -22,6 +22,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yashkumar2704/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/yashkumar2704/Data-Structures/tree/master/0454-4sum-ii) |
+| [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [1512-number-of-good-pairs](https://github.com/yashkumar2704/Data-Structures/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yashkumar2704/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/yashkumar2704/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
+| [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashkumar2704/Data-Structures/tree/master/1657-determine-if-two-strings-are-close) |
 ## String
 |  |
@@ -96,6 +98,7 @@
 | [0392-is-subsequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0392-is-subsequence) |
 | [0763-partition-labels](https://github.com/yashkumar2704/Data-Structures/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashkumar2704/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/yashkumar2704/Data-Structures/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
 ## Linked List
 |  |
 | ------- |
