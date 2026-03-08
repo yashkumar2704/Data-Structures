@@ -9,7 +9,6 @@ class Solution {
             i++;
             if(i-j==k){
                 int temp=Integer.parseInt(s.substring(j,i));
-                System.out.println(temp);
                 if(temp!=0){
                     if(num%temp==0)ans++;
                 }
