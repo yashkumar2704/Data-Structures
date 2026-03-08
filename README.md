@@ -22,6 +22,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yashkumar2704/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/yashkumar2704/Data-Structures/tree/master/0454-4sum-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/yashkumar2704/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [1512-number-of-good-pairs](https://github.com/yashkumar2704/Data-Structures/tree/master/1512-number-of-good-pairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/yashkumar2704/Data-Structures/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/yashkumar2704/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
