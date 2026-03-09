@@ -49,6 +49,7 @@
 | [0763-partition-labels](https://github.com/yashkumar2704/Data-Structures/tree/master/0763-partition-labels) |
 | [1512-number-of-good-pairs](https://github.com/yashkumar2704/Data-Structures/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashkumar2704/Data-Structures/tree/master/1657-determine-if-two-strings-are-close) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/yashkumar2704/Data-Structures/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashkumar2704/Data-Structures/tree/master/1657-determine-if-two-strings-are-close) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/yashkumar2704/Data-Structures/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
@@ -140,6 +142,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/yashkumar2704/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/yashkumar2704/Data-Structures/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashkumar2704/Data-Structures/tree/master/1657-determine-if-two-strings-are-close) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yashkumar2704/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/yashkumar2704/Data-Structures/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Prefix Sum
 |  |
