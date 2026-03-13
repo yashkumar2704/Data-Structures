@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/yashkumar2704/Data-Structures/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/yashkumar2704/Data-Structures/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
@@ -164,6 +165,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yashkumar2704/Data-Structures/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0392-is-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/yashkumar2704/Data-Structures/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashkumar2704/Data-Structures/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yashkumar2704/Data-Structures/tree/master/0055-jump-game) |
 | [0763-partition-labels](https://github.com/yashkumar2704/Data-Structures/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/yashkumar2704/Data-Structures/tree/master/1578-minimum-time-to-make-rope-colorful) |
