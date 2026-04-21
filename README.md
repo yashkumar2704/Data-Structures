@@ -85,6 +85,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/yashkumar2704/Data-Structures/tree/master/1657-determine-if-two-strings-are-close) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/yashkumar2704/Data-Structures/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2390-removing-stars-from-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,11 +174,13 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashkumar2704/Data-Structures/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
