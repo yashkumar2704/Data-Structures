@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/yashkumar2704/Data-Structures/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/yashkumar2704/Data-Structures/tree/master/0223-rectangle-area) |
 | [1512-number-of-good-pairs](https://github.com/yashkumar2704/Data-Structures/tree/master/1512-number-of-good-pairs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/yashkumar2704/Data-Structures/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Divide and Conquer
@@ -215,4 +216,8 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0234-palindrome-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/yashkumar2704/Data-Structures/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
