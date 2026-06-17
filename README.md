@@ -25,6 +25,7 @@
 | [0454-4sum-ii](https://github.com/yashkumar2704/Data-Structures/tree/master/0454-4sum-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yashkumar2704/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/yashkumar2704/Data-Structures/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/yashkumar2704/Data-Structures/tree/master/1512-number-of-good-pairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/yashkumar2704/Data-Structures/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -49,6 +50,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/yashkumar2704/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/yashkumar2704/Data-Structures/tree/master/0454-4sum-ii) |
 | [0763-partition-labels](https://github.com/yashkumar2704/Data-Structures/tree/master/0763-partition-labels) |
+| [0904-fruit-into-baskets](https://github.com/yashkumar2704/Data-Structures/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/yashkumar2704/Data-Structures/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashkumar2704/Data-Structures/tree/master/1657-determine-if-two-strings-are-close) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -206,6 +208,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yashkumar2704/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/yashkumar2704/Data-Structures/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/yashkumar2704/Data-Structures/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Prefix Sum
