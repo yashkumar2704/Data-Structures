@@ -7,7 +7,7 @@ class Solution {
             h.put(nums[i],h.getOrDefault(nums[i],0)+1);
             while(h.size()>2){
                 // System.out.println(nums[l]+"  l:"+l+"  i:"+i);
-                if(h.containsKey(nums[l]))
+                
                 h.put(nums[l],h.get(nums[l])-1);
                 if(h.get(nums[l])==0)h.remove(nums[l]);
                 l++;
