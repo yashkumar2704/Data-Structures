@@ -38,6 +38,7 @@
 | [0001-two-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/yashkumar2704/Data-Structures/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/yashkumar2704/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashkumar2704/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yashkumar2704/Data-Structures/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/yashkumar2704/Data-Structures/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yashkumar2704/Data-Structures/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashkumar2704/Data-Structures/tree/master/0242-valid-anagram) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashkumar2704/Data-Structures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/yashkumar2704/Data-Structures/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashkumar2704/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashkumar2704/Data-Structures/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/yashkumar2704/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
