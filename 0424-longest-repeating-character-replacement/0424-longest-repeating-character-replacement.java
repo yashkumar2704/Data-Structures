@@ -8,21 +8,17 @@ class Solution {
     }
     public int characterReplacement(String s, int k) {
         int ans=0;
-        int temp=0;
         int l=0;
         int arr[]=new int[26];
         for(int i=0;i<s.length();i++){
             arr[s.charAt(i)-'A']++;
             int len=i-l+1;
-            temp=max(arr);
-            int diff=len-temp;
+            int diff=len-max(arr);
             while(diff>k){
                 arr[s.charAt(l)-'A']--;
                 l++;
-                temp=max(arr);
-            len= i-l+1;
-            diff=len-temp;
-
+                len=i-l+1;
+                diff=len-max(arr);
             }
             ans=Math.max(ans,len);
         }
