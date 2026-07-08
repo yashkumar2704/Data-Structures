@@ -1,29 +1,21 @@
 class Solution {
-    // public int max(int arr[]){
-    //     int max=0;
-    //     for(int i=0;i<26;i++){
-    //         max=Math.max(arr[i],max);
-    //     }
-    //     return max;
-    // }
     public int characterReplacement(String s, int k) {
-        int ans=0;
+        int nums[]=new int[26];
         int l=0;
-        int maxfreq=0;
-        int arr[]=new int[26];
+        int ans=0;
+        int max=0;
         for(int i=0;i<s.length();i++){
-            arr[s.charAt(i)-'A']++;
-            int len=i-l+1;
-
-            maxfreq = Math.max(maxfreq, arr[s.charAt(i) - 'A']);
-            int diff=len-maxfreq;
-            while(diff>k){
-                arr[s.charAt(l)-'A']--;
-                l++;
-                len=i-l+1;
-                diff=len-maxfreq;
+            nums[s.charAt(i)-'A']++;
+            if(max<nums[s.charAt(i)-'A']){
+                max=nums[s.charAt(i)-'A'];
             }
-            ans=Math.max(ans,len);
+            // int diff=i-l+1-max;
+            while(i-l+1-max>k){
+                nums[s.charAt(l)-'A']--;
+                l++;
+            }
+            
+            ans=Math.max(ans,i-l+1);
         }
         return ans;
     }
