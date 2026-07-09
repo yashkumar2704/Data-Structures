@@ -23,6 +23,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yashkumar2704/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/yashkumar2704/Data-Structures/tree/master/0454-4sum-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yashkumar2704/Data-Structures/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/yashkumar2704/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkumar2704/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
@@ -75,6 +76,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yashkumar2704/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/yashkumar2704/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yashkumar2704/Data-Structures/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashkumar2704/Data-Structures/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashkumar2704/Data-Structures/tree/master/1657-determine-if-two-strings-are-close) |
@@ -122,6 +124,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yashkumar2704/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/yashkumar2704/Data-Structures/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/yashkumar2704/Data-Structures/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yashkumar2704/Data-Structures/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/yashkumar2704/Data-Structures/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
@@ -195,6 +198,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yashkumar2704/Data-Structures/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yashkumar2704/Data-Structures/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/yashkumar2704/Data-Structures/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/yashkumar2704/Data-Structures/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -208,6 +212,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashkumar2704/Data-Structures/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/yashkumar2704/Data-Structures/tree/master/0055-jump-game) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yashkumar2704/Data-Structures/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/yashkumar2704/Data-Structures/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/yashkumar2704/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/yashkumar2704/Data-Structures/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -249,4 +254,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/yashkumar2704/Data-Structures/tree/master/0223-rectangle-area) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yashkumar2704/Data-Structures/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
