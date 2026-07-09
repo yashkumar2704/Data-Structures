@@ -11,7 +11,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(arr[i]!=nums[i]){
                 
-        System.out.println(arr[i]+"  "+nums[i]);
+        // System.out.println(arr[i]+"  "+nums[i]);
                 ans=i;break;
             }
         }
@@ -21,7 +21,7 @@ class Solution {
                 t=i;break;
             }
         }
-        System.out.print(t+"  "+ans);
+        // System.out.print(t+"  "+ans);
         if(t==0 && ans==0)return 0;
         return t-ans+1;
     }
